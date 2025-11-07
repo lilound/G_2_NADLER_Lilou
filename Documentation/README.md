@@ -1,4 +1,3 @@
-# PIT25
 
 # Survive a night out … UNIX version !
 
