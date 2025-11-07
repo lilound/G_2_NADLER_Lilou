@@ -7,7 +7,7 @@
 
 ## Les rôles
 
-En sortant de soirée, c'est toujours plus prudent de rentrer avec un.e ami.e! Il ya donc deux rôles:
+Plus on est de fous, plus on rit ! Il ya donc deux rôles:
 
 - **Celui qui exécute les ordres** c’est celui derrière l’ordinateur.
   Lui seul peut vous aider à rentrer chez vous sain et sauf.
